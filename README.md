@@ -1,2 +1,2 @@
 # Dark-Mode
-Membuat Fitur dark mode pada web
+Membuat simple Fitur dark mode pada web + toggle animation
